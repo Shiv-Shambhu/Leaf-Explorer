@@ -35,8 +35,7 @@
 ##### PayPal Clean Method [Donate]
 <a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
 
-![https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg](http://paypal.me/premium813)
-
+![](../../blob/master/images/myimage.jpg)
 
 ##### UPI id :- leafexplorer-github@ybl 
      *Donate with UPI.*
@@ -58,4 +57,5 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
