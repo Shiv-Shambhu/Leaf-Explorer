@@ -1,12 +1,61 @@
-## Welcome to GitHub Pages
+# Leaf-Explorer
+##### Best Android File Manager With File Share and Text Editor.
 
-You can use the [editor on GitHub](https://github.com/Shiv-Shambhu/Leaf-Explorer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Leaf Explorer - *In Action*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/Leaf%20Explorer(Github-V-1.11.30).zip)<br>
 
-### Markdown
+#### Premium Version : [V-1.11.35 【Buy Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/V-1.11.35.MD)<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Free Version App Demo : [Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer/releases/tag/v-1.11.30)<br>
+
+### Join Telegram
+1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
+2. All Information About Leaf Explorer.
+##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
+
+
+### Leaf Explorer screen (Free Version)
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
+|:---:|:---:|
+| Home | Send Files |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/>|
+|:---:|:---:|
+| Send Files | Receive Files |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.19.27.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.24.50.jpg" width = "300"/> |
+|:---:|:---:|
+| File Manager | Web Share |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/navigation_srawer.jpg" width = "300"/>|
+|:---:|:---:|
+| Send Files | Navigation |
+
+
+## Features (Free Version)
+- [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
+- [x] Standard File Manager.
+- [x] File Share (like SHAREit).
+- [x] File PC Share (Via Wi-Fi Connection with Browser).
+- [x] Search Files.
+- [x] Sort Files.
+- [x] Show/Hide Hidden files.
+- [x] Copy/Move/Paste Files.
+- [x] Delete Files/Folders.
+- [x] Rename Files/Folders.
+- [x] Text Editor.
+
+
+#### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
+
+
+
+##### PayPal Clean Method [Donate]
+<a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
+##### UPI id :- leafexplorer-github@ybl 
+     *Donate with UPI.*
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +74,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shiv-Shambhu/Leaf-Explorer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
