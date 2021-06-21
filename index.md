@@ -27,7 +27,7 @@
 
 
 ## ✨ Donation Features
-- [x] **Free** + **Premium** Update.
+- [x] **Free** Update.
 - [x] Update Details Via **Telegram Channel**.
 - [x] Regular Bug Fixes.
 
