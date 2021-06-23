@@ -1,11 +1,11 @@
 # Leaf-Explorer
-Best Android File Manager With File Share (like SHAREit) and Text Editor with Music player (Notification and Popup player) and Image Viewer.
+##### Best Android File Manager With File Share and Text Editor.
 
 ## Leaf Explorer - *In Action*
 
 ###### Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/Leaf%20Explorer(Github-V-1.11.30).zip)<br>
 
-#### Premium Version : [V-1.11.35 【Buy Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/V-1.11.35.MD)<br>
+#### Premium Version : [V-1.15.40 【Buy Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/V-1.15.40.MD)<br>
 
 #### Free Version App Demo : [Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer/releases/tag/v-1.11.30)<br>
 
@@ -51,7 +51,13 @@ Best Android File Manager With File Share (like SHAREit) and Text Editor with Mu
 
 
 
-##### PayPal Clean Method [Donate]
+##### PayPal Method [Donate]
 <a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
 ##### UPI id :- leafexplorer-github@ybl 
      *Donate with UPI.*
+
+
+
+## License
+
+This app is licensed under GNU Public License version 2.0 or later version.
